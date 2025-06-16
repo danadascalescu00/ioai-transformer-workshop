@@ -2,8 +2,7 @@
 
 This repository contains materials for the workshop designed for participants of the International Olympiad in Artificial Intelligence (IOAI).
 
-
-## Workshop Structure
+## 🧭 Workshop Structure
 
 ### Part 1: Transformer Architecture Deep Dive
 - Learn the building blocks of Transformer models, including embeddings, encoders, and position encodings.
@@ -16,10 +15,9 @@ This repository contains materials for the workshop designed for participants of
 - Tackle **Broken BERT**-style challenges by restoring sentiment classification accuracy without retraining or external data. More details can he found [here](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline).
 
 ### Part 4: Cross-Lingual Adaptation
-- Develop systems for zero-shot slot filling and intent detection in a cross-lingual setting.
+- Develop systems for zero-shot slot filling and intent detection in a cross-lingual setting using English training data and Romanian evaluation. Inspired by [NEOAI 2025 Task 8](https://www.kaggle.com/competitions/neoai-2025-intent-detection-and-slot-filling), under strict constraints (no translation, no external models).
 
-
-## Notebooks
+## 📚 Notebooks
 
 Before starting the workshop, **make a personal copy of the notebook**. You will work on your own version during the session. To do so, go to the **_File_** menu in Colab and select _**Save a copy in Drive**_.
 
@@ -43,7 +41,7 @@ _Coming soon..._
 The notebooks are tested with Python 3.10+.
 
 
-## Contributing
+## 🛠️ Contributing
 Everyone is welcome to contribute, and we value all contributions — whether it's fixing a typo, improving explanations, adding new insights, or suggesting new tasks. If you’ve found something that could be improved, we encourage you to open a discussion or submit a pull request.
 
 
@@ -77,7 +75,7 @@ To contribute:
 6. Submit a pull request with a clear description of what you’ve done.
 
 
-## 📚 References
+## 🔗 References
 - Vaswani et al., 2023 – "Attention is All You Need"
 
 - Hugging Face – [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
@@ -87,7 +85,7 @@ To contribute:
 - Northern Eurasia OAI 2025 [Kaggle Competition](https://www.kaggle.com/competitions/neoai-2025/overview)
 
 
-## 🔗 Additional Resources
+## 📖 Additional Resources
 
 - [Jay Alammar – The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
