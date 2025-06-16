@@ -2,7 +2,7 @@
 
 This repository contains materials for the workshop designed for participants of the International Olympiad in Artificial Intelligence (IOAI).
 
-## 🧭 Workshop Structure
+## 🕒 Workshop Structure
 
 ### Part 1: Transformer Architecture Deep Dive
 - Learn the building blocks of Transformer models, including embeddings, encoders, and position encodings.
