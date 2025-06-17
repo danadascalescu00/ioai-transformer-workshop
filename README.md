@@ -12,7 +12,7 @@ This repository contains materials for the workshop designed for participants of
 - Inspect attention weights and hidden states across layers and heads.
 
 ### Part 3: Embeddings and Weight Manipulation
-- Tackle **Broken BERT**-style challenges by restoring sentiment classification accuracy without retraining or external data. More details can he found [here](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline).
+- Restore model performance under embedding corruption constraints in a zero-shot setting. Inspired by [NEOAI 2025 Task 5](https://www.kaggle.com/code/ilseyaralimova/broken-bert-baseline), this challenge requires recovering sentiment classification accuracy for a "Broken BERT" model without retraining or external resources.
 
 ### Part 4: Cross-Lingual Adaptation
 - Develop systems for zero-shot slot filling and intent detection in a cross-lingual setting using English training data and Romanian evaluation. Inspired by [NEOAI 2025 Task 8](https://www.kaggle.com/competitions/neoai-2025-intent-detection-and-slot-filling), under strict constraints (no translation, no external models).
