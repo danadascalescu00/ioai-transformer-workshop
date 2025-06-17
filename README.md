@@ -76,7 +76,7 @@ To contribute:
 
 
 ## 🔗 References
-- Vaswani et al., 2023 – "Attention is All You Need"
+- Vaswani et al., 2023 – ["Attention is All You Need"](https://arxiv.org/abs/1706.03762)
 
 - Hugging Face – [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
 
