@@ -21,7 +21,7 @@ This repository contains materials for the workshop designed for participants of
 
 Before starting the workshop, **make a personal copy of the notebook**. You will work on your own version during the session. To do so, go to the **_File_** menu in Colab and select _**Save a copy in Drive**_.
 
-Workshop: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yQXBNEiga9kLd7ZMvBtJsF5GEkTTpQvm?usp=sharing)
+Workshop: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NezmgEXVCRFgjJErIhfBolr1XJ0QeOOI?usp=sharing)
 
 Solution: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yQXBNEiga9kLd7ZMvBtJsF5GEkTTpQvm?usp=sharing)
 
