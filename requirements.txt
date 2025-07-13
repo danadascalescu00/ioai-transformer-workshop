@@ -1,0 +1,10 @@
+# TODO: Core dependencies 
+torch
+transformers
+numpy
+matplotlib
+jupyter
+ipywidgets
+tqdm
+datasets
+tokenizers
