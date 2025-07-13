@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+venv/
+env/
+
+# Data files (large files)
+*.pkl
+*.pth
+*.bin
+*.h5
+data/processed/
+data/models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
