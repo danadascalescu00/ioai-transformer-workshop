@@ -24,7 +24,14 @@ Before starting the workshop, **make a personal copy of the notebook**. You will
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yQXBNEiga9kLd7ZMvBtJsF5GEkTTpQvm?usp=sharing)
 
 
-## ⚙️ Local Development Setup
+| Resource | Description | Time |
+|----------|-------------|------|
+| [**Main Notebook**](notebooks/IOAI_Transformer_Workshop.ipynb) | Complete workshop content | ~4 hours |
+| [Exercises](notebooks/exercises/) | Hands-on challenges | Coming soon |
+| [Solutions](notebooks/solutions/) | Detailed solution guides | Coming soon |
+
+
+### ⚙️ Local Development Setup
 
 _Coming soon..._
 
@@ -40,37 +47,17 @@ The notebooks are tested with Python 3.10+.
 
 
 ## 🛠️ Contributing
-Everyone is welcome to contribute, and we value all contributions — whether it's fixing a typo, improving explanations, adding new insights, or suggesting new tasks. If you’ve found something that could be improved, we encourage you to open a discussion or submit a pull request.
 
+Everyone is welcome to contribute! Whether it's fixing a typo, improving explanations, adding new insights, or suggesting new tasks.
 
-To contribute:
+**Quick contribution**: See [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
-1. Open an issue describing the problem or idea.
+### Ways to Help:
+- :bug: **Report Issues**: Found something unclear or broken?
+- :memo: **Improve Content**: Better explanations or examples
+- :dart: **Add Exercises**: Create new challenges
+- :book: **Documentation**: Setup guides, troubleshooting tips
 
-2. Fork the repository and clone your fork:
-   ```bash
-   git clone git@github.com:<your-github-handle>/ioai-transformer-workshop.git
-   cd ioai-transformer-workshop
-   ```
-
-3. Add the upstream repository:
-   ```bash
-   git remote add upstream https://github.com/danadascalescu00/ioai-transformer-workshop.git
-   ```
-
-4. Create a new branch for your changes:
-   ```bash
-   git checkout -b your-feature-name
-   ```
-
-5. Make your changes, commit and push:
-   ```bash
-   git add .
-   git commit -m "Brief description of the change"
-   git push origin your-feature-name
-   ```
-
-6. Submit a pull request with a clear description of what you’ve done.
 
 
 ## 🔗 References
@@ -88,5 +75,18 @@ To contribute:
 - [Jay Alammar – The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 - [Hugging Face Transformers Notebooks](https://huggingface.co/docs/transformers/notebooks)
+
+
+## 🏷️ Repository Structure
+
+```
+ioai-transformer-workshop/
+├── notebooks/
+│   └── IOAI_Transformer_Workshop.ipynb  # Main workshop content
+├── src/                                  # Utility functions
+├── data/                                # Sample datasets
+├── docs/                                # Setup and troubleshooting
+└── assets/                              # Images and diagrams
+```
 
 ---
